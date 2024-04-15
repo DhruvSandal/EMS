@@ -1,0 +1,20 @@
+	Company Name, Titan
+	Address: Chandigarh 
+------------------------------------------------------
+Employee ID		: 101
+Salary Of		: April-2024 
+Generated On		: 15-04-2024
+------------------------------------------------------
+Total Days		:  31 
+Total Present		:  29 
+Total Absent		:  2
+Convence		:  Rs4000
+Medical		:  Rs1500
+PF		:  Rs2500
+Gross Payment		:  Rs38000
+Net Salary		:  Rs35548.38709677419
+------------------------------------------------------
+This is computer generated slip, not
+required any signature 
+
+

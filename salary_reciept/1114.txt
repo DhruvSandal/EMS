@@ -1,0 +1,19 @@
+	Company Name, Titan
+	Address: Chandigarh 
+------------------------------------------------------
+Employee ID		: 1114
+Salary Of		: asd-123123 
+Generated On		: 15-04-2024
+------------------------------------------------------
+Total Days		:  132 
+Total Present		:  9 
+Total Absent		:  123
+Convence		:  Rs123
+Medical		:  Rs6969
+PF		:  Rs123
+Gross Payment		:  Rs123123
+Net Salary		:  Rs1425.75
+------------------------------------------------------
+This is computer generated slip, not
+required any signature 
+

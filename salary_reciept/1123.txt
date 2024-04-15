@@ -1,0 +1,19 @@
+	Company Name, Titan
+	Address: Chandigarh
+------------------------------------------------------
+Employee ID		: 
+Salary Of		: DD-MM-YYYY
+Generated On		: DD-MM-YYYY
+------------------------------------------------------
+Total Days		:  DD
+Total Present		:  DD
+Total Absent		:  DD
+Convence		:  Rs,-------
+Medical		:  Rs,-------
+PF		:  Rs,-------
+Gross Payment		:  Rs,-------
+Net Salary		:  Rs,-------
+------------------------------------------------------
+This is computer generated slip, not
+required any signature
+
